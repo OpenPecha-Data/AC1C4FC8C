@@ -1,0 +1,26 @@
+segment_sources:
+  P603EBB7A:
+    type: origin_type
+    relation: translation
+    language: en
+  P1813CF7A:
+    type: origin_type
+    relation: translation
+    language: fr
+  P852C48A0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  25137c22f4134dea90e46d01b3b0f7dd:
+    P603EBB7A: 3f30bde8d8a3496fac7082f89c3fb6ea
+    P1813CF7A: 6c61413d240c438a869c507f79f39f48
+    P852C48A0: 0b08a19c4d5d4956b0848ae08fe863d2
+  5943b02770fb4e00b2a39afdf2740a19:
+    P603EBB7A: 7f5c4b18cfff486ba8244bde87911388
+    P1813CF7A: 66dfd8b69389447e84ecc5431d4eb9e2
+    P852C48A0: c010a2126c704fcd8d97dee345b005d8
+  a8565a59d9cc46c78a5ed5e2dbaf87c9:
+    P603EBB7A: 537ef238519a49088e1cb7c607dbcf8c
+    P1813CF7A: 925ade25121d4664ba9dad9075aacce3
+    P852C48A0: 1595c835a61c421ba9835f53994041bc
